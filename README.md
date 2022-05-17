@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Caro 👋
 
 <!--
 **Caroraniti/Caroraniti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
